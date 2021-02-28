@@ -35,10 +35,7 @@ onEvent('item.tags', event => {
 // obsidian dust tags
   event.add('forge:dusts/obsidian', ['create:powdered_obsidian'])
 
-// workbench
-  event.add('forge:workbench', ['cyclic:workbench'])
-
 //fertilizer
-  event.add('forge:fertilizer', ['create:tree_fertilizer', 'waterstrainer:fertilizer', 'botania:fertilizer', 'gardentools:fertilizer', 'mysticalagriculture:mystical_fertilizer', 'farmingforblockheads:green_fertilizer', 'farmingforblockheads:red_fertilizer', 'farmingforblockheads:yellow_fertilizer'])
+  event.add('forge:fertilizer', ['create:tree_fertilizer', 'botania:fertilizer', 'mysticalagriculture:mystical_fertilizer', 'farmingforblockheads:green_fertilizer', 'farmingforblockheads:red_fertilizer', 'farmingforblockheads:yellow_fertilizer'])
 
 })
