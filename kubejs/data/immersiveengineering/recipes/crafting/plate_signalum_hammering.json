@@ -10,5 +10,11 @@
     ],
     "result": {
         "item": "thermal:signalum_plate"
-    }
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "thermal"
+        }
+    ]
 }
