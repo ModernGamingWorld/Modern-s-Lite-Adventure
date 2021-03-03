@@ -212,6 +212,11 @@ onEvent('jei.hide.items', event => {
   event.hide('quark:warped_bookshelf')
 
   //blocks
+  event.hide('extendedcrafting:the_ultimate_block')
+  event.hide('extendedcrafting:crystaltine_block')
+  event.hide('extendedcrafting:enhanced_ender_block')
+  event.hide('extendedcrafting:ender_block')
+  event.hide('extendedcrafting:redstone_block')
   event.hide('immersiveengineering:storage_copper')
   event.hide('mekanism:block_copper')
   event.hide('tmechworks:copper_block')
@@ -580,6 +585,18 @@ onEvent('jei.hide.items', event => {
   //ender chest
   event.hide('minecraft:ender_chest')
 
+  //extendedcrafting recipes
+  event.hide('extendedcrafting:the_ultimate_component')
+  event.hide('extendedcrafting:crystaltine_component')
+  event.hide('extendedcrafting:enhanced_ender_component')
+  event.hide('extendedcrafting:ender_component')
+  event.hide('extendedcrafting:redstone_component')
+  event.hide('extendedcrafting:the_ultimate_catalyst')
+  event.hide('extendedcrafting:the_crystaltine_catalyst')
+  event.hide('extendedcrafting:enhanced_ender_catalyst')
+  event.hide('extendedcrafting:ender_catalyst')
+  event.hide('extendedcrafting:redstone_catalyst')
+
   //gears
   event.hide('titanium:gold_gear')
   event.hide('titanium:iron_gear')
@@ -721,6 +738,11 @@ onEvent('jei.hide.items', event => {
   event.hide('quark:black_item_frame')
 
   //ingots hidden from jei
+  event.hide('extendedcrafting:the_ultimate_ingot')
+  event.hide('extendedcrafting:crystaltine_ingot')
+  event.hide('extendedcrafting:enhanced_ender_ingot')
+  event.hide('extendedcrafting:ender_ingot')
+  event.hide('extendedcrafting:redstone_ingot')
   event.hide('exnihilosequentia:ingot_copper')
   event.hide('exnihilosequentia:ingot_aluminum')
   event.hide('immersiveengineering:ingot_aluminum')
@@ -793,6 +815,12 @@ onEvent('jei.hide.items', event => {
   event.hide('refinedstorage:black_crafter_manager')
 
   //nuggets hidden from jei
+  event.hide('extendedcrafting:the_ultimate_nugget')
+  event.hide('extendedcrafting:crystaltine_nugget')
+  event.hide('extendedcrafting:enhanced_ender_nugget')
+  event.hide('extendedcrafting:ender_nugget')
+  event.hide('extendedcrafting:redstone_nugget')
+  event.hide('extendedcrafting:black_iron_nugget')
   event.hide('mekanism:nugget_copper')
   event.hide('occultism:copper_nugget')
   event.hide('create:zinc_nugget')
