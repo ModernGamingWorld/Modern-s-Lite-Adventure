@@ -22,7 +22,8 @@ Modern's Lite Adventure is a Modpack design with a mix of different types mods c
 ModernGamingWorld
 
 
-![Image of Yaktocat](https://i.imgur.com/i5EjR5B.png)
+
+![](https://i.imgur.com/i5EjR5B.png)
 
 The Feed The Beast Team for use of their mods in Curseforge packs.
 
