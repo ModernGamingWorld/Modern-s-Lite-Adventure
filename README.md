@@ -2,7 +2,7 @@
   <img width="560" height="88" src="https://i.imgur.com/S9yqb3M.png">
 </p>
 
-Modern's Lite Adventure is a Modpack design with a mix of different types mods compiled into a midsized Modpack for low end PCs or servers to handle.
+**Modern's Lite Adventure is a Modpack design with a mix of different types mods compiled into a midsized Modpack for low end PCs or servers to handle.**
 
   <a href="https://discord.gg/kvagXuP">
     <img alt="Discord" src="https://img.shields.io/discord/554449878282010633?color=purple&label=Discord&style=flat-square">
