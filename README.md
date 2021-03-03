@@ -2,17 +2,20 @@
   <img width="560" height="88" src="https://i.imgur.com/S9yqb3M.png">
 </p>
 
+  <p align="center">
   <a href="https://discord.gg/kvagXuP">
     <img alt="Discord" src="https://img.shields.io/discord/554449878282010633?color=purple&label=Discord&style=flat-square">
-  </a>
+  </a> </p>
   
+  <p align="center">
   <a href="https://www.curseforge.com/minecraft/modpacks/monumental-experience">
     <img alt="Modpack Downloads" src="http://cf.way2muchnoise.eu/full_450869_downloads.svg">
-  </a>
+  </a> </p>
   
+  <p align="center">
   <a href="https://www.curseforge.com/minecraft/modpacks/monumental-experience">
     <img alt="Modpack Versions" src="http://cf.way2muchnoise.eu/versions/450869.svg">
-  </a>
+  </a></p>
   
 **Modern's Lite Adventure is a Modpack design with a mix of different types mods compiled into a midsized Modpack for low end PCs or servers to handle.**
 
