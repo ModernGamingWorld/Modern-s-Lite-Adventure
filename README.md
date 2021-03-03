@@ -20,9 +20,6 @@
 **Modern's Lite Adventure is a Modpack design with a mix of different types mods compiled into a midsized Modpack for low end PCs or servers to handle.**
 
 
-[Mod List](https://www.curseforge.com/minecraft/modpacks/moderns-lite-adventure/relations/dependencies)
-
-
 
 <p align="center">
   <img width="560" height="88" src="https://i.imgur.com/i5EjR5B.png">
