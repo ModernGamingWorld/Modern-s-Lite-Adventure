@@ -149,7 +149,7 @@
 		#Range: 0.0 ~ 1.0
 		negativeEffectsMinSeverity = 0.1
 		#Enable worldwide radiation effects. Don't be a downer and disable this.
-		radiationEnabled = false
+		radiationEnabled = true
 
 	#SPS Settings
 	[general.sps]
