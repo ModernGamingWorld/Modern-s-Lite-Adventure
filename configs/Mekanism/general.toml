@@ -114,7 +114,7 @@
 		#Enable the security system for players to prevent others from accessing their machines. Does NOT affect Frequencies.
 		allowProtection = true
 		#Ops can bypass the block security restrictions if enabled.
-		opsBypassRestrictions = false
+		opsBypassRestrictions = true
 
 	#Laser Settings
 	[general.laser]
@@ -149,7 +149,7 @@
 		#Range: 0.0 ~ 1.0
 		negativeEffectsMinSeverity = 0.1
 		#Enable worldwide radiation effects. Don't be a downer and disable this.
-		radiationEnabled = true
+		radiationEnabled = false
 
 	#SPS Settings
 	[general.sps]
