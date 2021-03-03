@@ -40,6 +40,9 @@ The Feed The Beast Team for use of their mods in Curseforge packs.
 
 
 ## Other Projects
+
 [Fabric Exploration](https://www.curseforge.com/minecraft/modpacks/fabric-exploration)
+
 [Wooden Utilities](https://www.curseforge.com/minecraft/mc-mods/wooden-utilities)
+
 [Expedition In The Sky 2](https://www.curseforge.com/minecraft/modpacks/expedition-in-the-sky-2)
