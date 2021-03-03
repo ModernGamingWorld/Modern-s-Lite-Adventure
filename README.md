@@ -25,9 +25,9 @@
   
 [Mod List](https://www.curseforge.com/minecraft/modpacks/moderns-lite-adventure/relations/dependencies)
 
-<p align="center">
+
 ##Modpack Developers:##
-</p>
+
 
  ##ModernGamingWorld##
 
