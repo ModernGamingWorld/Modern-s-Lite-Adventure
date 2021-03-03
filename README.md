@@ -14,7 +14,7 @@ Modern's Lite Adventure is a Modpack design with a mix of different types mods c
   </a>
   
   ## Mod List
-[Mod List](https://www.curseforge.com/minecraft/modpacks/monumental-experience/relations/dependencies)
+[Mod List](https://www.curseforge.com/minecraft/modpacks/moderns-lite-adventure/relations/dependencies)
 
 
 ## Modpack Developers:
