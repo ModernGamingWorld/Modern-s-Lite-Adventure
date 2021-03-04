@@ -20,6 +20,9 @@
 - Enchantment Descriptions
 - Lollipop
 - Lost Trinkets
+- FTB Ultimine
+- Industrial Foregoing
+- PneumaticCraft
 
 
 **Added**
