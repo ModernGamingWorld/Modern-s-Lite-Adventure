@@ -23,12 +23,25 @@
 - FTB Ultimine
 - Industrial Foregoing
 - PneumaticCraft
+- Corail Tombstone
+- ItemPhysic
+- Mcjty
+- Platforms
+- Rftools Builder
+- Rftools Control
+- Valhelsia Core
+- Forge
 
 
 **Added**
+- Official Server
+- Desired Servers
 
 
 **Fixed/changed**
+- Some Datapack issues
+- Prefab Config
+- LootBag Config
 
 
 **Removed**
